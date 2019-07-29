@@ -1,0 +1,75 @@
+[
+  {
+    "count": 3,
+    "name": "Назва1",
+    "price": 34,
+    "pricePerGram": 11.333333333333334
+  },
+  {
+    "count": 3,
+    "name": "Назва2",
+    "price": 34,
+    "pricePerGram": 11.333333333333334
+  },
+  {
+    "count": 3,
+    "name": "Назва3",
+    "price": 34,
+    "pricePerGram": 11.333333333333334
+  },
+  {
+    "count": 34,
+    "name": "матеріал1",
+    "price": 345,
+    "pricePerGram": 10.147058823529411
+  },
+  {
+    "count": 346,
+    "name": "dfg",
+    "price": 345,
+    "pricePerGram": 0.99710982658959535
+  },
+  {
+    "count": 3456,
+    "name": "матеріал2",
+    "price": 345,
+    "pricePerGram": 0.0998263888888889
+  },
+  {
+    "count": 345,
+    "name": "матеріал3",
+    "price": 345,
+    "pricePerGram": 1
+  },
+  {
+    "count": 345,
+    "name": "кексик",
+    "price": 345,
+    "pricePerGram": 1
+  },
+  {
+    "count": 1234,
+    "name": "кексик1",
+    "price": 123,
+    "pricePerGram": 0.099675850891410053
+  },
+  {
+    "count": 35,
+    "name": "Назва",
+    "price": 34,
+    "pricePerGram": 0.97142857142857142
+  },
+  {
+    "count": 345,
+    "name": "матеріал11",
+    "price": 345,
+    "pricePerGram": 1
+  },
+  {
+    "count": 345,
+    "name": "матеріал111",
+    "price": 234,
+    "pricePerGram": 0.67826086956521736
+  
+  }
+]

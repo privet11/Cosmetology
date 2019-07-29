@@ -1,0 +1,16 @@
+c:\users\andriy\documents\visual studio 2015\Projects\Cosmetology\Cosmetology\bin\Debug\Cosmetology.exe.config
+c:\users\andriy\documents\visual studio 2015\Projects\Cosmetology\Cosmetology\obj\Debug\Cosmetology.Edit.resources
+c:\users\andriy\documents\visual studio 2015\Projects\Cosmetology\Cosmetology\obj\Debug\Cosmetology.Newitem.resources
+c:\users\andriy\documents\visual studio 2015\Projects\Cosmetology\Cosmetology\obj\Debug\Cosmetology.Properties.Resources.resources
+c:\users\andriy\documents\visual studio 2015\Projects\Cosmetology\Cosmetology\obj\Debug\Cosmetology.csproj.GenerateResource.Cache
+c:\users\andriy\documents\visual studio 2015\Projects\Cosmetology\Cosmetology\bin\Debug\Cosmetology.exe
+c:\users\andriy\documents\visual studio 2015\Projects\Cosmetology\Cosmetology\bin\Debug\Cosmetology.pdb
+c:\users\andriy\documents\visual studio 2015\Projects\Cosmetology\Cosmetology\obj\Debug\Cosmetology.exe
+c:\users\andriy\documents\visual studio 2015\Projects\Cosmetology\Cosmetology\obj\Debug\Cosmetology.pdb
+c:\users\andriy\documents\visual studio 2015\Projects\Cosmetology\Cosmetology\obj\Debug\Cosmetology.csproj.Cosmetology.exe.config
+c:\users\andriy\documents\visual studio 2015\Projects\Cosmetology\Cosmetology\bin\Debug\System.Runtime.Serialization.dll
+c:\users\andriy\documents\visual studio 2015\Projects\Cosmetology\Cosmetology\bin\Debug\System.Runtime.Serialization.Json.dll
+c:\users\andriy\documents\visual studio 2015\Projects\Cosmetology\Cosmetology\bin\Debug\System.ServiceModel.Web.dll
+c:\users\andriy\documents\visual studio 2015\Projects\Cosmetology\Cosmetology\bin\Debug\System.Xml.dll
+C:\Users\Andriy\Documents\Visual Studio 2015\Projects\Cosmetology\Cosmetology\obj\Debug\Cosmetology.Classes.resources
+C:\Users\Andriy\Documents\Visual Studio 2015\Projects\Cosmetology\Cosmetology\obj\Debug\Cosmetology.csprojResolveAssemblyReference.cache
